@@ -1,0 +1,5 @@
+# Project exclude paths
+/concurrent_test/target/
+/out/
+/Y2023M10/target/
+/Y2023M11/target/

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Y2023M11" />
+        <module name="Y2023M10" />
+        <module name="concurrent_test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="concurrent_test" target="1.8" />
+      <module name="Y2023M10" target="17" />
+      <module name="Y2023M11" target="17" />
+      <module name="Y2023M11bak" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
